@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Computer science student @ University of Bern and Webdeveloper @ visol digitale Dienstleistungen GmbH. 
+Webdeveloper @ visol digitale Dienstleistungen GmbH. 
 Interested in Webdevelopment, Cloud Native and Security.
 Ambitious to learn something new every day!
 
