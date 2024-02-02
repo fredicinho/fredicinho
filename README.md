@@ -5,8 +5,8 @@ Interested in Webdevelopment, Cloud Native and Security.
 Ambitious to learn something new every day!
 
 
-- 🔭 I’m currently working with Java and TypeScript
-- 🌱 I’m currently learning Openshift
+- 🔭 I’m currently working with C# and TypeScript
+- 🌱 I’m currently learning Azure Cloud
 - 📫 How to reach me: `echo "ZnJlZGFlMTRAaG90bWFpbC5jb20K" | base64 --decode`
 
 
